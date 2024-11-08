@@ -1,9 +1,8 @@
-package java_fullstack;
+package variaveisEoperadors;
 
 import java.util.Scanner;
 
-public class VariaveisEoperadores_6_3{
-
+public class Calculosalario {
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);
 		
@@ -21,6 +20,9 @@ public class VariaveisEoperadores_6_3{
 		
 		leitor.close();
 
-	}
 
 }
+
+	
+	}
+
