@@ -1,6 +1,6 @@
 package java_fullstack;
 
-//Escreva um programa contendo uma Collection Queue (Fila) de Objetos do tipo string, para organizar uma fila por ordem de chegada dos Clientes de um Banco.
+
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
